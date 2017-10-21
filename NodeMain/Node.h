@@ -1,0 +1,10 @@
+#ifndef __60B3D793_D236_4DAE_A847_763BD99005D4__
+#define __60B3D793_D236_4DAE_A847_763BD99005D4__
+class Node
+{
+public:
+	Node();
+	~Node();
+};
+
+#endif //__60B3D793_D236_4DAE_A847_763BD99005D4__
